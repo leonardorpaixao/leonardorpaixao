@@ -2,24 +2,16 @@
 
 My name is Leonardo, but you can call me Leo :)
 
-I'm an professional android developer working from Brazil. This profile is being updated constantly. Hope you enjoy!
+I'm an professional mobile developer working from Brazil/Australia. Hope you enjoy!
 
-</br>
-
-<div>
-<a href="https://github.com/leonardorpaixao">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorpaixao&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorpaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-</br>
-</br>
 
 <div>
 <img height=40 width=60 padding src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img height=40 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
 
 
 </div>
